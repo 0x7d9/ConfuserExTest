@@ -1,0 +1,8 @@
+<project outputDir="" baseDir="" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" inherit="false">
+    <protection id="rename">
+	  <argument name="mode" value="sequential" />
+	  <argument name="renPublic" value="true" />
+	</protection>
+  </rule>
+</project>
